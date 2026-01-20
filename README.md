@@ -95,15 +95,6 @@ Demonstrar compreensão completa do fluxo **ETL** aplicado a um caso real de mar
 
 ---
 
-## 🚀 Melhorias Futuras
-- Integração com banco de dados (MySQL/PostgreSQL)
-- Dashboard de visualização dos dados
-- Agendamento automático da pipeline (cron/Airflow)
-- Testes unitários
-- Containerização com Docker
-
----
-
 ## 📌 Observação
 Esse projeto é uma adaptação educacional e não representa o ambiente de produção real do Santander.
 
